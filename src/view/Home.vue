@@ -6,7 +6,7 @@
       <h1>VV_UI</h1>
       <h2>UI造轮子</h2>
       <div class="btn">
-        <router-link class="began" to="/doc/switch">开始使用</router-link>
+        <router-link class="began" to="/doc">开始使用</router-link>
       </div>
     </div>
   </div>
